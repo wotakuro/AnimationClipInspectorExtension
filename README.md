@@ -8,11 +8,14 @@ AnimationClipのInspectorをルールベースで適応するオブジェクト�
 <br />
 　動作確認バージョン:2017.3<br />
 
-# 動作の様子
+## 動作の様子
 ![alt text](doc/demo.gif)
 
-上のWindowで指定したルールに沿って、AnimationClipのPreviewで適応するGameObjectを変更しています。
+上のWindowで指定したルールに沿って、AnimationClipのPreviewで適応するGameObjectを変更しています。<br />
+Windowが存在している間は、このルールに沿って AnimationClipのPreviewのモデルを変更します
 
+
+## 謝辞
 本プロジェクトのサンプルとして、UnityChanのデータを利用しています<br />
 
 ![alt text](doc/imageLicenseLogo.png)
