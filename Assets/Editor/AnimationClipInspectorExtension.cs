@@ -14,9 +14,9 @@ namespace UTJ
     public class AnimationClipInspectorExtension : EditorWindow
     {
         /// メニューアイテム名
-        private const string MenuName = "Tools/UTJ/AnimationClipInspectorExtention";
+        private const string MenuName = "Tools/UTJ/AnimationClipInspectorExtension";
         /// 設定の保存場所
-        private const string ConfigFile = "AnimationClipInspectorExtention.json";
+        private const string ConfigFile = "AnimationClipInspectorExtension.json";
 
         /// <summary>
         /// ルール
